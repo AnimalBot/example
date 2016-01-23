@@ -1,0 +1,14 @@
+{
+    "name": "animalbot.example",
+    "version": "1.0.0",
+    "description": "Example module for the ANIMAL bot.",
+    "homepage": "http://bot.animal.at",
+    "author": "ANIMAL",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/AnimalBot/example"
+    }
+}
